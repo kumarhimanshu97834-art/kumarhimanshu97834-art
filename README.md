@@ -25,3 +25,22 @@
 [![](https://komarev.com/ghpvc/?username=kumarhimanshu97834-art&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+<table>
+      <thead>
+            <tr>
+                  <th>
+                        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kumarhimanshu97834-art&show_icons=true&theme=radical"></p>
+                  </th>
+                  <th>
+                        <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarhimanshu97834-art"> </p>
+                  </th>
+            </tr>
+      </thead>
+</table>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarhimanshu97834-art&langs_count=10"> </p>
+
+
