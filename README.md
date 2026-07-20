@@ -26,6 +26,30 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## 🚀 Featured Projects
+
+🔹 Loan Approval Prediction
+- Machine Learning | Streamlit | Scikit-learn
+
+🔹 Car Evaluation Predictor
+- Random Forest | Streamlit
+
+🔹 Heart Disease Prediction
+- Logistic Regression | KNN | Random Forest
+
+🔹 Online Retail Prediction
+- Data Analysis | Machine Learning
+
+
+## 💻 Coding Profiles
+
+- LeetCode
+- CodeChef
+- HackerRank
+
+  ## 📈 Contribution Graph
+
+[![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kumarhimanshu97834-art&theme=github-compact)](https://github.com/kumarhimanshu97834-art)
 
 
 
